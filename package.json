@@ -1,0 +1,34 @@
+{
+  "name": "integralui-web-toaster",
+  "version": "22.2.0",
+  "description": "IntegralUI Web - Toaster is a native Web Component that allows you to display notification messages (Toasts) with different alert levels",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidorsystems/integralui-web-toaster.git"
+  },
+  "keywords": [
+    "component",
+    "integralui",
+    "toaster",
+    "toast",
+    "ui",
+    "web",
+    "web-component",
+    "javascript",
+    "js",
+    "angular",
+    "react",
+    "reactjs",
+    "vue",
+    "vuejs"
+  ],
+  "author": "Lidor Systems",
+  "license": "SEE LICENSE in LICENSE.md",
+  "homepage": "https://www.lidorsystems.com/products/web/studio/",
+  "bugs": {
+    "url": "https://github.com/lidorsystems/integralui-web-toaster/issues"
+  }
+}
